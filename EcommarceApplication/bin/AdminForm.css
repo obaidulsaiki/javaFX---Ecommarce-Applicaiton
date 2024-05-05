@@ -1,0 +1,59 @@
+.btn-forms {
+  -fx-background-color: linear-gradient(to bottom right, #fa7ecc, #f127aec2);
+  -fx-text-fill: white;
+  -fx-font: bold 18px "San-serif fonts";
+  -fx-background-radius: 5px;
+  -fx-cursor: hand;
+}
+.btn-forms:hover {
+  -fx-background-color: linear-gradient(to bottom right, #fc2ee0f1, #ff00dd);
+}
+.header {
+  -fx-border-color: #e6c4d9;
+  -fx-border-width: 0 0 5px 0;
+  -fx-border-padding: 0 0 5px 0;
+  -fx-text-fill: rgb(255, 255, 255);
+  -fx-font: bold 30px "San-serif fonts";
+}
+.header:hover {
+  -fx-border-color: #a1156e;
+}
+.adminRightPanel {
+  -fx-background-color: #a1156e;
+}
+.adminRightPanel2 {
+  -fx-background-color: #c44495;
+}
+.upperSection {
+  -fx-background-color: white;
+  -fx-background-radius: 8px;
+  -fx-effect: dropshadow(three-pass-box, rgb(0, 0, 0.5), 5, 0, 0, 0);
+}
+.tableView {
+  -fx-background-color: transparent;
+  -fx-padding: 0;
+  -fx-border-color: purple;
+  -fx-border-radius: 5px;
+  -fx-border-width: 2px;
+}
+.tableView .column-header-background {
+  -fx-background-color: #a1156e;
+  -fx-background-insets: 0 0 0 0;
+}
+.tableView .column-header,
+.filter {
+  -fx-background-color: transparent;
+  -fx-font: bold 14px "San-serif fonts";
+}
+.tableView .column-header .label {
+  -fx-text-fill: white;
+}
+.btn {
+  -fx-background-color: linear-gradient(to bottom right, #a1156e, #922c88);
+  -fx-text-fill: white;
+  -fx-background-radius: 5px;
+  -fx-cursor: hand;
+}
+.btn:hover {
+  -fx-background-color: linear-gradient(to bottom right, #f968ea, #a1156e);
+}
