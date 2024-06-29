@@ -1,2 +1,2 @@
 # javaFX---Ecommarce-Applicaiton
-Ecommarce application join project with israt sumaiya ripti for the partial fullfilment of the JAVA university course
+E-commerce application joint project with israt sumaiya ripti for the partial fulfillment of the JAVA university course
